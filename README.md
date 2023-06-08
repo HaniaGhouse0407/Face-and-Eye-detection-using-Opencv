@@ -14,8 +14,3 @@ This project utilizes the OpenCV library to perform real-time face and eye detec
 - Python 3.x
 - OpenCV library (`pip install opencv-python`)
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/face-eye-detection.git
